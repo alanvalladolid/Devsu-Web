@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanvalladolid/Devsu-Web"
   }
 }
