@@ -1,0 +1,15 @@
+{
+  "name": "devsu-web",
+  "version": "1.0.0",
+  "description": "Cypress Web Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  }
+}
